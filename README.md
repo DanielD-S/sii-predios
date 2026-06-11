@@ -1,4 +1,4 @@
-# sii-predios 🏠🇨🇱
+# sii-predios 🇨🇱
 
 Pipeline para descargar predios catastrales del SII (Servicio de Impuestos Internos de Chile) por comuna, con geometría vectorial y datos tabulares completos.
 
