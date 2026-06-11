@@ -36,6 +36,7 @@ Pipeline para descargar predios catastrales del SII (Servicio de Impuestos Inter
 **San Felipe (5601) — 7.526 predios**
 
 ![San Felipe](docs/Sii_resultado.PNG)
+![Tabla de Atributos](docs/Atributos.PNG)
 
 ---
 
